@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="LightOn">res/windowWithLight.png</file>
+        <file alias="LightOff">res/windowWithoutLight.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>image/StandbyBackground.png</file>
+        <file alias="LightOn">image/windowWithLight.png</file>
+        <file alias="LightOff">image/windowWithoutLight.png</file>
+        <file alias="LightOn2">image/windowWithLight2.png</file>
+        <file alias="LightOff2">image/windowWithoutLight2.png</file>
+        <file alias="star">image/star.png</file>
+        <file alias="streetLightOff">image/streetLightOff.png</file>
+        <file alias="streetLightOn">image/streetLightOn.png</file>
+        <file>image/cloud.png</file>
+        <file>GlobalMenu.qml</file>
+        <file>Standby.qml</file>
+        <file>image/globalMenu/globalMenubackground.png</file>
+        <file>CustomListView.qml</file>
+        <file>image/globalMenu/icon.png</file>
+        <file>image/globalMenu/button.png</file>
+    </qresource>
+</RCC>
